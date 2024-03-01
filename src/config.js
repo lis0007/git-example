@@ -1,0 +1,1 @@
+console.log('fajlli conifg.js versioni 1')
