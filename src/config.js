@@ -1,1 +1,1 @@
-console.log('fajlli conifg.js versioni 1')
+console.log('fajlli conifg.js versioni 3')
